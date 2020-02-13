@@ -12,8 +12,8 @@ Requirements
   - ESP32
   - Relay board
   - DC Step-down 42-5V
-  - Display and button to not depend on wifi?
+  - Display and button and/or led to not depend on wifi?
   
- - Expected problems
+- Expected problems
   - If BT connection shuts down while charging, get a time estimation and continue charging until expected.
   - If no BT connection from the beginning just enable relay and charge forever.
