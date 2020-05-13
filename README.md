@@ -11,7 +11,7 @@ Requirements
 - HW
   - ESP32
   - Relay board
-  - DC Step-down 42-5V
+  - DC Step-down 42-5V (XL7015)
   - Display and button and/or led to not depend on wifi?
   
 - Expected problems
