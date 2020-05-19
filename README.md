@@ -7,7 +7,9 @@ Requirements
 - SW
   - Read battery status from BLE (already working in python/raspi)
   - Web interface for setting limits and display info (not mandatory)
-
+  - nRF project to read from  M365 https://github.com/heardrwt/Xiaomi-M365-Display/blob/master/main.c
+  - Simple python script to read from M365 https://github.com/Emeryth/ReadM365
+  
 - HW
   - ESP32
   - Relay board
